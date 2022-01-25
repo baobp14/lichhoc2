@@ -1,3 +1,8 @@
+<html>
+  <head>
+    <title> Lịch học online </title>
+  </head>
+  <body>
 <a href="https://bit.ly/3k3ETNJ" target="_blank">Văn</a>
 <br>
 <a href="https://bit.ly/2YHZMFR" target="_blank">Toán</a>
@@ -23,6 +28,7 @@
 <a href="https://bit.ly/2ZnE9v8" target="_blank">GDQP</a>
 <br>
 <a href="https://bit.ly/3z6K3N7" target="_blank">Địa</a>
-
+    </body>
+</html>
 
 
