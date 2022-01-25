@@ -1,7 +1,5 @@
 <html>
-  <head>
-    <title> Lịch học online </title>
-  </head>
+
   <body>
 <a href="https://bit.ly/3k3ETNJ" target="_blank">Văn</a>
 <br>
